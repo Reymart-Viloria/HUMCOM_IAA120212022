@@ -1,0 +1,17 @@
+tr {
+    border: 2px solid black;
+}
+table{
+    padding: 2px;
+    margin: 2px;
+    border: 2px solid black;
+    width: 100%;
+}
+section{
+    border: 2px solid black;
+    margin: 2px;
+    height: 7rem;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+
